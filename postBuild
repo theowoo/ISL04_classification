@@ -1,1 +1,7 @@
 jupyter contrib nbextension install --user
+jupyter nbextension enable toc2/main
+jupyter nbextension enable execute_time/ExecuteTime
+jupyter nbextension enable hide_input/main
+jupyter nbextension init_cell/main
+
+jupyter trust 3.0_classification.ipynb
