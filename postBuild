@@ -3,4 +3,5 @@ jupyter nbextension enable init_cell/main
 jupyter nbextension enable execute_time/ExecuteTime
 jupyter nbextension enable hide_input/main
 jupyter nbextension enable splitcell/splitcell
+jupyter nbextension enable python-markdown/main
 jupyter trust 3.0_classification.ipynb
